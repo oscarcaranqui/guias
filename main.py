@@ -3,6 +3,7 @@ from common.consumer import consume_queue
 import multiprocessing
 from src.v1.layout import DOCUMENT
 
+
 class app:
 
     def __init__(self):
